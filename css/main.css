@@ -15,17 +15,17 @@ body, html {
   
   }
   .bgimg-1 {
-    background-image: url("/image/waterfall.jpg");
+    background-image: url("../image/waterfall.jpg");
     min-height: 100%;
   }
   
   .bgimg-2 {
-    background-image: url("/image/river.jpg");
+    background-image: url("../image/river.jpg");
     min-height: 400px;
   }
   
   .bgimg-3 {
-    background-image: url("/image/lake.jpg");
+    background-image: url("../image/lake.jpg");
     min-height: 400px;
   }
   
